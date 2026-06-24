@@ -6,8 +6,6 @@ Built a full-stack event management system for managing events, participants, re
 
 ## ✨ Key Capabilities
 
----
-
 ### Participant & Team Management
 
 * Maintain participant records with unique festival IDs.
