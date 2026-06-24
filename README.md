@@ -6,6 +6,8 @@ Built a full-stack event management system for managing events, participants, re
 
 ## ✨ Key Capabilities
 
+---
+
 ### Participant & Team Management
 
 * Maintain participant records with unique festival IDs.
@@ -120,24 +122,6 @@ The application is powered by a PostgreSQL database designed using normalization
 * Clear separation of frontend, backend, and database layers.
 
 ---
-
-## 📂 Project Structure
-
-```text
-IfestApp/
-├── backend/
-│   ├── db/
-│   ├── routes/
-│   ├── server.js
-│   └── .env
-├── frontend/
-│   ├── src/
-│   ├── components/
-│   ├── pages/
-│   └── App.jsx
-├── IFest_SRS.pdf
-└── package.json
-```
 
 ## 🚀 Getting Started
 
