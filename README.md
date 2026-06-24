@@ -166,15 +166,7 @@ Backend: http://localhost:5000
 
 ---
 
-## 📄 Documentation
-
-The complete Software Requirements Specification (SRS) is included in the repository as:
-
-`IFest_SRS.pdf`
-
----
-
 ## 👩‍💻 Contributors
 
-* Mahi Kansara
-* Diya Shah
+* Mahi Kansara (202512078)- SEM-1, DAIICT
+* Diya Shah (202512025)- SEM-1, DAIICT
